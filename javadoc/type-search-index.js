@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"BMIRecord"},{"p":"<Unnamed>","l":"BMIRecordsManager"},{"p":"<Unnamed>","l":"BMIRecordTest"},{"p":"<Unnamed>","l":"BMITrackerGUI"}];updateSearchResults();
